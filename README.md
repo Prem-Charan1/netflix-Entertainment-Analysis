@@ -2,6 +2,7 @@
 
 This project is focused on analyzing public sentiment expressed on social media platforms. It combines **Python**  and **data cleaning** with **Power BI** for building an interactive data visualization dashboard.
 
+
 ## 📌 Project Overview
 
 The goal is to:
@@ -17,7 +18,9 @@ The goal is to:
 
 ## Folder Structure 
 1. Netflix_Analysis.py (python file to clean data)
-2. Netflix_title(Noisy Data)
+2. Netflix_title(Noisy Data).
+  You can also download the file using this link :
+    https://www.kaggle.com/datasets/shivamb/netflix-shows
 3. Netflix_cleaned(preprocessed Data)
 4. Netflix_Dashboard( Insights about Netflix)
 
