@@ -15,6 +15,12 @@ The goal is to:
 - **Power BI**
 - **VS Code**
 
+## Folder Structure 
+1. Netflix_Analysis.py (python file to clean data)
+2. Netflix_title(Noisy Data)
+3. Netflix_cleaned(preprocessed Data)
+4. Netflix_Dashboard( Insights about Netflix)
+
 ## 🧠 Key Features
 
 ✅ Data Collection from Kaggle's Netflix dataset (TV shows & movies metadata)
