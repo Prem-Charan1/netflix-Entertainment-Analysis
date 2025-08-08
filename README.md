@@ -17,24 +17,39 @@ The goal is to:
 
 ## 🧠 Key Features
 
-- ✅ Data cleaning: Removing noise (URLs, hashtags, punctuation, stopwords)
-- ✅ Exported labeled data to CSV
-- ✅ Power BI dashboard with:
-  - Sentiment distribution
-  - Word clouds
-  - Hashtag trends
-  - Time-based analysis
+✅ Data Collection from Kaggle's Netflix dataset (TV shows & movies metadata)
+
+✅ Data Cleaning using Python (Pandas, NumPy): handled nulls, duplicates, column formatting
+
+✅ Exported Cleaned Data to CSV for easy integration with Power BI
+
+✅ Interactive Power BI Dashboard featuring:
+
+  ------📊 Genre-wise content distribution
+
+  ------🎬 Content ratings breakdown (TV-MA, PG, etc.)
+
+ ------📆 Year-wise content additions
+
+  -----🌍 Country-wise content availability
 
 ## 📊 Dashboard Preview
 <img width="501" height="281" alt="image" src="https://github.com/user-attachments/assets/9df6d7d5-a6a9-4556-bea5-44159bf0aa59" />
 
 
-The Power BI dashboard provides:
-- An overview of sentiment across all posts
-- Filterable visuals by time or keyword
-- Word cloud of commonly used terms
+"Then in Power BI, I built this interactive dashboard to explore and visualize key insights:
 
-*(Screenshots or a GIF can be added here)*
+🔢 A total count of shows on Netflix
+
+🌍 Top 10 countries contributing the most content
+
+📈 Content growth trend over the years
+
+🎭 A clear comparison between TV Shows and Movies over time
+
+📊 Most active directors by year
+
+📌 And a breakdown of content types using a pie chart
 
 ## 🏁 Getting Started
 
@@ -45,7 +60,9 @@ The Power BI dashboard provides:
 Install dependencies:
 
 pip install pandas 
+
 Run the VS Code
+
 Open Netflix_dashboard.pbix in Power BI Desktop to view or edit the dashboard.
 
 📜 License
