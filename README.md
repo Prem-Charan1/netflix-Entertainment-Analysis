@@ -64,8 +64,8 @@ The goal is to:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-dashboard.git
-   cd sentiment-analysis-dashboard
+   git clone https://github.com/Prem-Charan1/Netflix-Entertainment-Analysis.git
+   cd Netflix-Entertainment-Analysis
 Install dependencies:
 
 pip install pandas 
